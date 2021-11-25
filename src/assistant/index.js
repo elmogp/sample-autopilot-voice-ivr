@@ -93,7 +93,7 @@ function getGreetingActions(setup, baseUrl, date) {
   } else {
     actions = [
       {
-        say: message,
+        play: message,
       },
       {
         redirect: 'task://main-menu',
