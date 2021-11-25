@@ -19,7 +19,7 @@ const defaultSetup = {
       },
       {
         question: 'who the realtor is',
-        response: 'https://api.twilio.com/cowbell.mp3',
+        response: 'Your realtor is Jom Dundel.',
       },
     ],
   },
